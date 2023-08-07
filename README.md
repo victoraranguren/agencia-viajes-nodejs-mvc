@@ -1,5 +1,7 @@
 # Agencia de Viajes
 
+![Agencia de Viajes](/screenshot.jpg "Agencia de Viajes").
+
 Es un sitio web de una agencia de viajes donde toda la información está en una Bases de Datos.
 
 - Usa NodeJS como servidor.
